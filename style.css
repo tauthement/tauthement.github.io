@@ -1,0 +1,17 @@
+body {
+    background-color: #f0efe4;
+}
+
+#heading {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#subheading {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#subheading a {
+    color: #5e6b85;
+}
